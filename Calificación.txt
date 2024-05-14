@@ -1,0 +1,7 @@
+Calificación: 2.6/3
+
+Faltan pasos en el manual.
+Recomendaciones: 
+- Enumere las páginas 
+- Todas las imágenes deben tener un texto descriptivo
+- Cuando sea necesario se debe agregar al final del documentos, las referencias bibliográficas.
